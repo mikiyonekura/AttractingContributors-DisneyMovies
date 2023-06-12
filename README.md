@@ -29,4 +29,4 @@ There is a example below:
 https://github.com/NAIST-SE/AttractingContributors/discussions/828
 
 # List of Buzzwords
-1. 在小小的花园里挖呀挖呀挖：The earliest introduction of nursery rhymes to children was through kindergarten teachers. Later, with the popularity of TikTok, many people started to imitate and share these songs.
+1. siu~ :The buzzword "siu～" originates from the Portuguese football superstar Cristiano Ronaldo, which is his iconic celebration gesture and slogan after scoring a goal. However, as Ronaldo's performance on and off the field has been declining in recent years, people have started using this word to express mockery.
