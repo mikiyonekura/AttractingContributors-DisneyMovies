@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/828
 1. siu~ :The buzzword "siu～" originates from the Portuguese football superstar Cristiano Ronaldo, which is his iconic celebration gesture and slogan after scoring a goal. However, as Ronaldo's performance on and off the field has been declining in recent years, people have started using this word to express mockery.
 2. 在小小的花园里挖呀挖呀挖：The earliest introduction of nursery rhymes to children was through kindergarten teachers. Later, with the popularity of TikTok, many people started to imitate and share these songs.
 3. G(寄): Game over hahahah ;)
+4. ニャオハ立つな: This buzzword is a comment(like a joke) about the evolution of a Pokémon called Sprigatito(ニャオハ in Japanese) from Pokémon SV. Many people wanted it to evolve while still looking cute(They thought it would be less pretty if it stood up).
