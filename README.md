@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/828
 2. 在小小的花园里挖呀挖呀挖：The earliest introduction of nursery rhymes to children was through kindergarten teachers. Later, with the popularity of TikTok, many people started to imitate and share these songs.
 3. G(寄): Game over hahahah ;)
 4. ニャオハ立つな: This buzzword is a comment(like a joke) about the evolution of a Pokémon called Sprigatito(ニャオハ in Japanese) from Pokémon SV. Many people wanted it to evolve while still looking cute(They thought it would be less pretty if it stood up).
+5. 1: mean agree 0: mean disagree
