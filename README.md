@@ -23,4 +23,7 @@ Goal: I want contributors to suggest me some of their favourite Series or Shows
 2. Squid Games
 3. Stranger Things
 4. Never Have I Ever
-5. Numbers
+5. The End of the F***ing World
+6. Black Mirror
+7. Game of thrones
+8. Numbers
