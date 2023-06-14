@@ -35,3 +35,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/828
 4. ニャオハ立つな: This buzzword is a comment(like a joke) about the evolution of a Pokémon called Sprigatito(ニャオハ in Japanese) from Pokémon SV. Many people wanted it to evolve while still looking cute(They thought it would be less pretty if it stood up).
 5. 1: mean agree 0: mean disagree
 6. 草: it means like lol(lots of laugh)
+7. 嘻嘻: it means either you feel embarrassed or feel indifferent about something in a conversation. 
