@@ -23,3 +23,4 @@ Please tell us your favorite sport and the name of your favorite athlete in that
 * Kosuke HAGINO / Swimming
 * Furukawa Takaharu　/archery
 * Stephen Hendry　/Billiard
+* Kitagawa Hirotoshi /Baseball(retired)
