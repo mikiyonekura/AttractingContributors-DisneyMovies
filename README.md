@@ -28,3 +28,4 @@ Goal: I want contributors to suggest me some of their favourite Series or Shows
 7. Game of thrones
 8. Numbers
 9. Once Upon a Time
+10. Queen's Gambit
