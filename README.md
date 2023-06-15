@@ -24,3 +24,4 @@ Please tell us your favorite sport and the name of your favorite athlete in that
 * Furukawa Takaharu　/archery
 * Stephen Hendry　/Billiard
 * Kitagawa Hirotoshi /Baseball(retired)
+* Taishi Ota /Baseball
