@@ -37,3 +37,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/828
 6. 草: it means like lol(lots of laugh)
 7. 嘻嘻: it means either you feel embarrassed or feel indifferent about something in a conversation. 
 8. fpsやめれないんだけど：This buzzword is said by a game streamer. When earthquake come, he cannot stop fps.
+9. 日本脱出だよね：「自己防衛おじさん」left this quote in a TV street interview
