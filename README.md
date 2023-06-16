@@ -36,3 +36,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/828
 5. 1: mean agree 0: mean disagree
 6. 草: it means like lol(lots of laugh)
 7. 嘻嘻: it means either you feel embarrassed or feel indifferent about something in a conversation. 
+8. fpsやめれないんだけど：This buzzword is said by a game streamer. When earthquake come, he cannot stop fps.
